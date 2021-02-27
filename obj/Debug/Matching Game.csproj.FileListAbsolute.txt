@@ -1,0 +1,10 @@
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\bin\Debug\Matching Game.exe.config
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\bin\Debug\Matching Game.exe
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\bin\Debug\Matching Game.pdb
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.cache
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching Game.csproj.CoreCompileInputs.cache
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching Game.exe
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching Game.pdb
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching_Game.MatchingGame_Form.resources
+C:\Users\Stratos\Desktop\blazor matching game\Matching Game\obj\Debug\Matching Game.csprojAssemblyReference.cache
